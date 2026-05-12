@@ -25,7 +25,7 @@ A simple URL shortener REST API built with Node.js, Express, and MongoDB. It all
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/soumyyyadip/miniURL.git
    cd Short_URL
    ```
 
